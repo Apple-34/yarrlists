@@ -22,10 +22,10 @@ Stream or download anime episodes
 # [⚾Live Sports](https://yarrlists.net/sports-live-streaming)
 Watch sports events live
 
-# [📺Live TV](https://yarrlist.nets/live-tv-list)
+# [📺Live TV](https://yarrlists.net/live-tv-list)
 Watch TV channels live from around the world
 
-# [📙Manga](https://yarrlist.nets/manga-list)
+# [📙Manga](https://yarrlists.net/manga-list)
 Stay up to date with the latest manga releases
 
 # [⬇️Torrents](https://yarrlists.net/torrent-sites-list)
