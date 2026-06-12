@@ -9,13 +9,13 @@ https://yarrlists.net/
 
 Welcome to the YarrList wiki!
 # [🍿Movies and TV Shows](https://yarrlists.net/movies-and-tv-shows)
-Watch Movies and Tv series online
+Watch Movies and Tv series online | Free movie websites
 
 # [🐉Anime](https://yarrlists.net/anime-list)
-Watch free online or download anime episodes
+Watch free online or download anime episodes | best streaming sites
 
 # [⚾Live Sports](https://yarrlists.net/sports-live-streaming)
-Watch sports events live online 
+Watch sports events live online | Free streaming sites
 
 # [⬇️Torrents](https://yarrlists.net/torrent-sites-list)
 Get movies, games, and more through peer-to-peer sharing.
