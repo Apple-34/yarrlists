@@ -2,12 +2,7 @@
 
 https://yarrlists.net/
 
-# Backups:
-
-https://yarrlists.net/
-
-
-Welcome to the YarrList wiki!
+Welcome to the YarrList
 # [🍿Movies and TV Shows](https://yarrlists.net/movies-and-tv-shows)
 Watch Movies and Tv series online | Free movie websites
 
